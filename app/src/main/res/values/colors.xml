@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--actionbar 的背景颜色-->
+    <color name="colorPrimary">#3F51B5</color>
+    <!-- 状态栏的颜色 5.0 以后 生效 -->
+    <color name="colorPrimaryDark">#303F9F</color>
+    <!--  -->
+    <color name="colorAccent">#FF4081</color>
+</resources>
