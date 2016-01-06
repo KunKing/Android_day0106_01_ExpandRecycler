@@ -3,9 +3,12 @@
     xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
     android:layout_height="match_parent">
 
+
+    <!-- android:id="@android:id/text1" 可以减少 代码的重整-->
     <TextView
         android:id="@android:id/text1"
-        android:layout_width="match_parent"
+        android:textSize="20sp"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 
 </android.support.design.widget.CoordinatorLayout>
